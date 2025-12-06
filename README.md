@@ -1,4 +1,4 @@
-# SQL Project Portfolio
+# SQL - Projects - Portfolio
 
 Welcome to my **SQL Project Portfolio** — a curated collection of real-world case studies and hands-on SQL projects designed to showcase my data analytics and database querying skills.
 

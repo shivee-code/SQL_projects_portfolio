@@ -64,7 +64,7 @@ This portfolio is built to:
 
 ## Connect With Me
 - GitHub: [shivee-code](https://github.com/shivee-code)
-- LinkedIn: [Shivam Kumar](linkedin.com/in/shivam-kumar-2a0371246)
+- LinkedIn: [Shivam Kumar](https://linkedin.com/in/shivam-kumar-2a0371246)
 
 ---
 

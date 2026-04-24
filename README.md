@@ -19,7 +19,7 @@ These projects cover diverse domains such as **retail, food delivery**, and **e-
 
  Tools Used: `MySQL`, `CASE`, `JOINS`, `GROUP BY`, `ORDER BY`, `Window Functions`
 
----
+##
 
 ### [Project 2: Swiggy Food Delivery Analysis](./Project-2_swiggy_food_delivery_analysis)
  Analysis of restaurant performance and customer satisfaction metrics from Swiggy's food delivery dataset.

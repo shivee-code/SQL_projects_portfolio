@@ -8,8 +8,6 @@ This project explores Walmart’s transactional data to derive actionable busine
 
 To optimize Walmart’s sales strategies by analyzing historical transactions across branches, customer types, product lines, and payment methods using advanced MySQL queries.
 
----
-
 
 ---
 
